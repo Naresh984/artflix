@@ -380,12 +380,14 @@ input.input{
   text-align: center;
   background: #f4f7f8;
   border-radius: 12px;
+
 }
 
 .card .card-image img {
   transition: .4s ease;
   width: 100%;
   height: auto;
+  border-radius: 15px;
 }
 
 .card:hover .card-image img {
